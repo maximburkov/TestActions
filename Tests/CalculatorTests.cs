@@ -16,7 +16,7 @@ namespace Tests
             var res = c.Add(1, 2);
 
             // Assert
-            Assert.AreEqual(3, res);
+            Assert.AreEqual(4, res);
         }
     }
 }
